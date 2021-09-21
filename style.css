@@ -14,7 +14,9 @@ body {
   max-width: 500px;
   margin: auto;
   text-align: center;
-  color: cornsilk;
+  color: black;
+  font-size: large;
+  font-weight: 600;
 }
 
 input {
